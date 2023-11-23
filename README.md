@@ -11,7 +11,7 @@
 
 ## Overview
 
-[![Project Overview](/public/images/tasker-overview.jpg)](https://tasker-whitthenstein.vercel.app/)
+[![Project Overview](/public/tasker-overview.png)](https://tasker-whitthenstein.vercel.app/)
 
 _Live demo can be found [here](https://tasker-whitthenstein.vercel.app/)._
 
@@ -19,15 +19,15 @@ This is a project that aims to be a simple clone of the core functionality of th
 
 On tasker users can create boards, in style of a Kanban board.
 
-<img src="/public/images/tasker-create-board.gif" width="75%" />
+<img src="/public/tasker-create-board.gif" width="75%" />
 
 Once inside the board, they can create lists, add some cards and manipulate the cards. Manipulation can be moving them from a list to another, copy a card or delete a card.
 
-<img src="/public/images/tasker-manipulate-cards.gif" width="75%" />
+<img src="/public/tasker-manipulate-cards.gif" width="75%" />
 
 Once a user copies a card, we can see that both cards have different activity logs in the bottom, and have independent title and description from one another.
 
-<img src="/public/images/tasker-card-copy.gif" width="75%" />
+<img src="/public/tasker-card-copy.gif" width="75%" />
 
 A board also has some menu options:
 
@@ -36,15 +36,15 @@ A board also has some menu options:
 - Settings
 - Billing
 
-<img src="/public/images/tasker-board-menu.gif" width="75%" />
+<img src="/public/tasker-board-menu.gif" width="75%" />
 
 Users can also create additional Organizations, which will have their own Boards.
 
-<img src="/public/images/tasker-create-another-org.gif" width="75%" />
+<img src="/public/tasker-create-another-org.gif" width="75%" />
 
 Once an Organization on a Free Plan reaches the 5 Board limit cap, the user will be prompted to upgrade the Organization to a Pro plan.
 
-<img src="/public/images/tasker-free-board-limit.gif" width="75%" />
+<img src="/public/tasker-free-board-limit.gif" width="75%" />
 
 The Pro Plan has no limit to the number of boards.
 
